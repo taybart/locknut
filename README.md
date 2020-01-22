@@ -44,3 +44,7 @@ func main() {
 	log.Info(string(dec))
 }
 ```
+
+### Performance
+
+There is no pass for performance yet, please PR!
