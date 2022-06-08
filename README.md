@@ -1,4 +1,7 @@
 # BoltDB Locknut
+
+*This is a toy project*
+
 A boltdb wrapper to encrypt and decrypt the values stored in the boltdb via AES Cryptor, and also provides common 
 db operations such as GetOne, GetByPrefix, GetKeyList, Save, Delete and etc. 
 
